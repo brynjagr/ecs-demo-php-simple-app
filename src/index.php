@@ -25,6 +25,7 @@
                         fclose($myfile);
                 ?>
                 <p>Updated!!!!!!</p>
+                <p>bjorn was here</p>
 
             </div>
         </div>
